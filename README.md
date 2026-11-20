@@ -12,6 +12,9 @@ This lab was implemented on Cisco IOS routers (GNS3) and covers:
 - Metric-type control (E1)
 
 ---
+## Topology
+
+![Multi-Area OSPF Topology](OSPF.png)
 
 ## Topology Overview
 
